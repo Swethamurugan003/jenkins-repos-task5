@@ -1,5 +1,5 @@
 function Biriyani(){
-    return 'chicken biriyani ready'
+    return 'chicken biriyani ready!!'
 }
 Biriyani()
 console.log(Biriyani());
